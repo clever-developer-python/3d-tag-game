@@ -80,5 +80,3 @@ enemies = [Enemy(x=x*4) for x in range(1)]
 
 Sky()
 app.run()
-
-vdvxc
